@@ -9,10 +9,15 @@ The Kanban Board is a project management tool designed to help teams visualize t
 ## UI Screenshot
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/e56538bf-9306-4245-8480-a7bad8744578" alt="Kanban Board Screenshot 1" style="width: 50%;"/>
-  <img src="https://github.com/user-attachments/assets/d713a556-74db-4921-857b-46de06e27508" alt="Kanban Board Screenshot 2" style="width: 50%;"/>
-  <img src="https://github.com/user-attachments/assets/c2a7ca4a-1baf-43e7-91f0-d780ac7783d2" alt="Kanban Board Screenshot 3" style="width: 50%;"/>
+  <img src="https://github.com/user-attachments/assets/e56538bf-9306-4245-8480-a7bad8744578" alt="Kanban Board Screenshot 1" style="width: calc(50% - 5px); margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/d713a556-74db-4921-857b-46de06e27508" alt="Kanban Board Screenshot 2" style="width: calc(50% - 5px);"/>
 </div>
+
+<div style="display: flex; justify-content: space-between; margin-top: 10px;">
+  <img src="https://github.com/user-attachments/assets/584ce316-4bc8-457a-855d-24e60f35aa15" alt="Kanban Board Screenshot 3" style="width: calc(50% - 5px); margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/c2a7ca4a-1baf-43e7-91f0-d780ac7783d2" alt="Kanban Board Screenshot 4" style="width: calc(50% - 5px);"/>
+</div>
+
 
 
 ## Table of Contents
