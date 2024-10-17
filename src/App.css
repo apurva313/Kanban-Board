@@ -1,0 +1,37 @@
+.board {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 56px;
+}
+
+.column {
+  background-color: #7ed28fe2;
+  border-radius: 4px;
+  padding: 20px;
+  width: 22%;
+  margin: 5px;
+  text-align: center;
+  color: black;
+}
+
+.task {
+  background-color: #b69a29;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.fab {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
