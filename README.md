@@ -36,30 +36,32 @@ The Kanban Board is a project management tool designed to help teams visualize t
 
 1. **Clone the repository**:
 
-   sh
+   ```sh
    https://github.com/apurva313/Kanban-Board.git
    cd Kanban-Board
-   
+   ```   
 
 2. **Install dependencies**:
 
-   sh
+   ```sh
    npm install
    
 
 3. **Start the development server**:
 
-   sh
+  ```sh
    npm start
+  ```
    
 
    You should see output similar to:
 
-   sh
+   ```sh
    > kanbanboard@0.0.0 start
    > react-scripts start
 
    Starting the development server...
+  ```
    
 
 ## Usage
@@ -71,7 +73,7 @@ The Kanban Board is a project management tool designed to help teams visualize t
 
 ## Project Structure
 
-`plaintext
+```plaintext
 Kanban-Board/
 ├── .gitignore
 ├── LICENSE
@@ -100,7 +102,7 @@ Kanban-Board/
 │   ├── store.js
 |
 |
-
+```
 ### Key Files and Directories
 
 - *src/components/Board.js*: Main Kanban board component.
@@ -159,4 +161,4 @@ Contributions are welcome! Please follow these steps to contribute:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-`
+
