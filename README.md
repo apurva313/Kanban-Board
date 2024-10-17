@@ -9,26 +9,11 @@ The Kanban Board is a project management tool designed to help teams visualize t
 
 ## UI Screenshot
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
-    <div style="text-align: center;">
-        <img src="https://github.com/user-attachments/assets/e56538bf-9306-4245-8480-a7bad8744578" alt="Kanban Board Screenshot 1" style="width: 100%;"/>
-        <p>Kanban Board Screenshot 1</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://github.com/user-attachments/assets/d713a556-74db-4921-857b-46de06e27508" alt="Kanban Board Screenshot 2" style="width: 100%;"/>
-        <p>Kanban Board Screenshot 2</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://github.com/user-attachments/assets/584ce316-4bc8-457a-855d-24e60f35aa15" alt="Kanban Board Screenshot 3" style="width: 100%;"/>
-        <p>Kanban Board Screenshot 3</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://github.com/user-attachments/assets/c2a7ca4a-1baf-43e7-91f0-d780ac7783d2" alt="Kanban Board Screenshot 4" style="width: 100%;"/>
-        <p>Kanban Board Screenshot 4</p>
-    </div>
-</div>
-
-
+| ![Kanban Board Screenshot 1](https://github.com/user-attachments/assets/e56538bf-9306-4245-8480-a7bad8744578) | ![Kanban Board Screenshot 2](https://github.com/user-attachments/assets/d713a556-74db-4921-857b-46de06e27508) |
+| :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+|                                          _Kanban Board Screenshot 1_                                          |                                          _Kanban Board Screenshot 2_                                          |
+| ![Kanban Board Screenshot 3](https://github.com/user-attachments/assets/584ce316-4bc8-457a-855d-24e60f35aa15) | ![Kanban Board Screenshot 4](https://github.com/user-attachments/assets/c2a7ca4a-1baf-43e7-91f0-d780ac7783d2) |
+|                                          _Kanban Board Screenshot 3_                                          |                                          _Kanban Board Screenshot 4_                                          |
 
 ## Table of Contents
 
@@ -51,42 +36,42 @@ The Kanban Board is a project management tool designed to help teams visualize t
 
 1. **Clone the repository**:
 
-    sh
-    https://github.com/apurva313/Kanban-Board.git
-    cd Kanban-Board
-    
+   sh
+   https://github.com/apurva313/Kanban-Board.git
+   cd Kanban-Board
+   
 
 2. **Install dependencies**:
 
-    sh
-    npm install
-    
+   sh
+   npm install
+   
 
 3. **Start the development server**:
 
-    sh
-    npm start
-    
+   sh
+   npm start
+   
 
-    You should see output similar to:
+   You should see output similar to:
 
-    sh
-    > kanbanboard@0.0.0 start
-    > react-scripts start
+   sh
+   > kanbanboard@0.0.0 start
+   > react-scripts start
 
-    Starting the development server...
-    
+   Starting the development server...
+   
 
 ## Usage
 
 1. **Open your browser** and navigate to `http://localhost:3000`.
 2. **Kanban Board Interface**:
-    - You will see the Kanban Board with columns for "To-Do", "In Progress", "Peer Review", and "Done".
-    - Drag and drop tasks between columns to manage your workflow.
+   - You will see the Kanban Board with columns for "To-Do", "In Progress", "Peer Review", and "Done".
+   - Drag and drop tasks between columns to manage your workflow.
 
 ## Project Structure
 
-plaintext
+`plaintext
 Kanban-Board/
 ├── .gitignore
 ├── LICENSE
@@ -174,4 +159,4 @@ Contributions are welcome! Please follow these steps to contribute:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
+`
